@@ -1,9 +1,9 @@
 // Prompts the user for votes for 3 people and prints out winner
-package assign12;
+package voting;
 
 import java.util.Scanner;
 
-public class Assign12 {
+public class Voting {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
