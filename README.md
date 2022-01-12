@@ -1,3 +1,7 @@
-# All-projects
-Hello there! Here are some projects I have created
-Currently all coded in JAVA
+#All-projects <>
+
+int main()
+{
+    printf("Hello there! Here are some projects I have created");
+    printf("Currently all coded in JAVA and C");
+}
