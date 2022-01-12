@@ -3,7 +3,7 @@ package scaling;
 
 import java.util.Scanner;
 
-public class scaling {
+public class Scaling {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
