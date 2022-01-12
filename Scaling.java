@@ -1,3 +1,4 @@
+// Scaling program, prompts user for scaling factor and scales icon accordingly
 package assign13;
 import java.util.Scanner;
 public class Assign13 {
