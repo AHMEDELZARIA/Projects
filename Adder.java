@@ -1,4 +1,5 @@
-package ch8ex8;
+// Adding game
+package adder;
 import java.util.Random;
 import java.util.Scanner;
 
