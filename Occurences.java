@@ -1,9 +1,9 @@
 // Generates 500 random numbers from 0-9 and prints out number of occurences for each number
-package ch10ex3;
+package occurences;
 
 import java.util.Random;
 
-public class Ch10Ex3 {
+public class Occurences {
 
     public static void main(String[] args) {
         int[] outcomes = new int[10];
