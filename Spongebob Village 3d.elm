@@ -3,12 +3,12 @@ myEntities model =
     [ 
     
     axes
-    -- ,
-    -- fish model
-    -- |> move3D (0, (repeatDuration -60 20 400 model.time), 40*sin(model.time))
-    -- ,
-    -- fish model
-    -- |> move3D (60*sin(model.time), (repeatDuration -60 20 400 model.time), 0)
+    ,
+    fish model
+    |> move3D (0, (repeatDuration -60 20 400 model.time), 40*sin(model.time))
+    ,
+    fish model
+    |> move3D (60*sin(model.time), (repeatDuration -60 20 400 model.time), 0)
     ,
     spongebobVillage model
     ]
