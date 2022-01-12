@@ -3,7 +3,7 @@ package baicalculator;
 
 import java.util.Scanner;
 
-public class baicalculator {
+public class Baicalculator {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
