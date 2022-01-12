@@ -1,3 +1,4 @@
+// Prompts the user for votes for 3 people and prints out winner
 package assign12;
 import java.util.Scanner;
 public class Assign12 {
