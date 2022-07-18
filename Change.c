@@ -1,3 +1,4 @@
+// Calculates amount of each coin to return as change
 #include <cs50.h>
 #include <stdio.h>
 #include <math.h>
