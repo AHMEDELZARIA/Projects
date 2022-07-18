@@ -1,4 +1,4 @@
-// Generates 10 unrepeated random numbers and take the sum of every other integer  to form a new number
+// Generates 10 unrepeated random numbers and takes the sum of every other integer to form a new number
 package newNumber;
 
 import java.util.Arrays;
